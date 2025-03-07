@@ -28,3 +28,12 @@
 
         //* Ctrl + B --> hides sidebar
         //* Alt + Z--> toggles text wrapping
+
+//? Terminal
+    //! Powershell
+        //* ls --> list all items in directory
+        //* cd "folder name" --> open a folder
+        //* cd .. --> go back once in directory
+
+    //! npm
+        //* npx create-react-app "appName" --> create react app (if already in folder type "./" instead of appName)
